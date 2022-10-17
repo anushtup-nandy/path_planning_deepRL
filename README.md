@@ -14,3 +14,7 @@ I took a lot of help from the book "Grokking deep RL" by Miguel Morales to be ab
 
 ## Coming soon:
 1. I have coded a simpler DQN. I'll put it up as soon as I'm done commenting and organising the files !
+
+
+## Papers Read:
+[1] V. Mnih et al., “Playing Atari with Deep Reinforcement Learning.” arXiv, Dec. 19, 2013. Accessed: Oct. 17, 2022. [Online]. Available: http://arxiv.org/abs/1312.5602
