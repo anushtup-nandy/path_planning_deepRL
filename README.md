@@ -13,7 +13,8 @@ I took a lot of help from the book "Grokking deep RL" by Miguel Morales to be ab
 ## Plan:
 
 1. simulate a car training itself to follow a road. (will use KIVY for this)
-2. implement DDQN and compare results with DQN.
+2. create the simulation env  using Kivy. 
+3. implement DDQN and compare results with DQN.
 
 
 ## Papers Read:
