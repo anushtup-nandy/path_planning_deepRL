@@ -1,10 +1,14 @@
 # path_planning_deepRL
 
-This project is about making a path planning robot that'll discover the road on it's own, and then follow it.
+This project is about making a path planning robot that'll discover the road on it's own, and then follow it. It was done by Subash(responsible for the Kivy design) and I(DQN, neural network) under th guidance of Dr. Abhishek Sarkar from the department of Mechanical Engineering in BITS-Pilani, Hyderabad Campus).
 
 As of now I've implemented:
 1. the DQN algorithm, and ran it on the cart-pole env. 
 2. DQN2 (which is the simpler version of the grokking one)
+3. The DQN algorithm, and the neural network from scratch using Numpy (for some reason, I wasn't able to install kivy on Ubuntu, so I proceeded to do it on windows)
+4. A very simple simulation on kivy (in no way is this the final model, we plan on making it solve a maze, for now to see if it works, we made it follow a line!)
+
+THANK YOU!
 
 
 ## Help taken:
