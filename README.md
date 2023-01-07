@@ -9,6 +9,7 @@ As of now I've implemented:
 4. A very simple simulation on kivy (in no way is this the final model, we plan on making it solve a maze, for now to see if it works, we made it follow a line!)
 
 A picture of the line-follower: (I couldn't figure out how to upload a video, sorry :( )
+![line-DQN](https://github.com/anushtup-nandy/path_planning_deepRL/blob/main/Pic_line_follower.png)
 
 THANK YOU!
 
