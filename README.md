@@ -8,6 +8,8 @@ As of now I've implemented:
 3. The DQN algorithm, and the neural network from scratch using Numpy (for some reason, I wasn't able to install kivy on Ubuntu, so I proceeded to do it on windows)
 4. A very simple simulation on kivy (in no way is this the final model, we plan on making it solve a maze, for now to see if it works, we made it follow a line!)
 
+A picture of the line-follower: (I couldn't figure out how to upload a video, sorry :( )
+
 THANK YOU!
 
 
