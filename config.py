@@ -9,7 +9,7 @@ learningCoreSettings = {
     "learningRate" : 0.001,
     # BatchSize, number of samples taken from replay memory in each Learning Iteration
     "batchSize" : 25,
-    # Non-linear activation function for neurons, ReLU is used in this project but you may implement others 
+    # Non-linear activation function for neurons, ReLU is used
     "activationFunction" :"relu",
     # Number of outputs, can be set to 3 (Its not generic yet)
     "nOutputs" : 3,
@@ -17,7 +17,7 @@ learningCoreSettings = {
     "nInputs" : 3,
     # Regularization factor, for now its just implemented in manual design
     "reg" : 0,  
-    # AI Backend, can be set to manual, pytorch or UART
+    # AI Backend, can be set to manual or UART
     "backend" : "manual",
     # Amount of given reward for DQN algorithm
     "rewardAmount" : 0.1,
